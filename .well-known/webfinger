@@ -1,10 +1,10 @@
 {
-  "subject": "acct:dd1test@awley-del.github.io",
+  "subject": "acct:dd1test2@awley-del.github.io",
   "links": [
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://awley-del.github.io/actor.json"
+      "href": "https://awley-del.github.io/actor2.json"
     }
   ]
 }
